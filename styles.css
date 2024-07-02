@@ -30,6 +30,7 @@ body {
     background-image: url(https://static.vecteezy.com/system/resources/previews/008/854/587/non_2x/gray-background-gray-gradient-background-free-photo.jpeg);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
     
  
   justify-content: center;
@@ -161,6 +162,19 @@ text-align:right;
 .textodescripcion3 {
   
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 p {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 margin:20px;}
