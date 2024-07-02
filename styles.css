@@ -1,0 +1,191 @@
+
+.header {
+    background-color: white; 
+    height: 200px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin-bottom:40px;
+    margin-top:40px;
+  }
+
+
+h1 {
+    text-align:center; 
+    margin:80px;
+    color:rgb(0, 0, 0);
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  font-size: 40px;
+0px;
+   
+    
+}
+
+body {
+    background-color:rgb(235, 235, 235);
+    background-image: url(https://static.vecteezy.com/system/resources/previews/008/854/587/non_2x/gray-background-gray-gradient-background-free-photo.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+ 
+  justify-content: center;
+  align-items: center;
+
+}
+
+.general{ 
+    justify-content: center;
+    align-items: center;
+    display:flex;
+}
+
+
+.centro {
+    
+    justify-content: center;}
+
+.titulofoto-contador {
+    background-color: white;
+    display:flex;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+} 
+
+.titulo {
+text-align:left;
+width:50%;
+margin:20px;
+}
+
+.contador {
+width:50%;margin:20px;
+text-align:right;
+}
+
+.foto{object-fit: cover;
+	object-position: top;}
+
+.piedefoto {
+    background-color: white;
+    display:flex;
+    height:50px;
+    margin-bottom:20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+}
+.textodescripcion {
+
+    
+}
+
+
+.centro2 {
+    
+    justify-content: center;}
+
+.titulofoto-contador2 {
+    background-color: white;
+    display:flex;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+} 
+
+.titulo2 {
+text-align:left;
+width:50%;
+margin:20px;
+}
+
+.contador2 {
+width:50%;margin:20px;
+text-align:right;
+}
+
+.foto{position:absolute;}
+
+.piedefoto2 {
+    background-color: white;
+    display:flex;
+    height:50px;
+    margin-bottom:20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+}
+.textodescripcion2 {
+  
+}
+
+
+
+
+
+.centro3 {
+    
+    justify-content: center;}
+
+.titulofoto-contador3 {
+    background-color: white;
+    display:flex;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+} 
+
+.titulo3 {
+text-align:left;
+width:50%;
+margin:20px;
+}
+
+.contador3 {
+width:50%;margin:20px;
+text-align:right;
+}
+
+.foto{position:absolute;}
+
+.piedefoto3 {
+    background-color: white;
+    display:flex;
+    height:50px;
+    margin-bottom:20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.textodescripcion3 {
+  
+}
+
+p {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin:20px;}
+
+.end {display :flex;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    margin :50px;
+}
+
+.ending {
+    font-family:'Courier New', Courier, monospace;
+}
+
+strong {
+    font-family: "Gruppo", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+    font-weight: 700;
+  font-style: normal;
+}
+a:hover {color:fuchsia}
